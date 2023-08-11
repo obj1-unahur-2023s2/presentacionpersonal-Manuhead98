@@ -27,12 +27,12 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Juan Manuel Solis Diaz , pero pueden decirme juanma o manu (o como quieran), tengo 25 años, vivo en Rafael Castillo con mi mujer y mi hijo. Estudio programacion de forma autotidacta desde el comienzo de la pandemia en 2020 y el año pasado ingrese a la UNAHUR. La programacion orientada a objetos es un paradigma que me gusta mucho asi que esta materia estoy seguro que la voy a transitar con muchas ganas y expectativa. 
 
-Me gusta ...
+Me gusta la musica , el futbol y la programacion
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo en el area de progrmacion de un equipo del indec donde estoy mas del lado del back.
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![subir archivo de imagen](assets/foto-presentacion.jpg)
